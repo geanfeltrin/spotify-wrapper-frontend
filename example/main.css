@@ -122,6 +122,12 @@ body {
   padding: 50px;
 }
 
+#album-list {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
 .album-info {
   margin-right: 50px;
   text-align: center;
